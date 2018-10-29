@@ -1,0 +1,101 @@
+style.css
+
+
+
+
+
+#basliq{
+	margin: 5px;
+	
+
+}
+
+.hom{
+
+	color: white;
+	display: inline-block;
+	width: 12.25%;
+	height: 30px;
+	background: grey;
+	margin: 5px;
+
+
+}
+
+#foto1{
+	width: 300px;
+
+   height: 50px;
+
+
+}
+
+
+
+#sec1{
+  width: 35%;
+  height: 550px;
+  margin: 5px;
+  display: inline-block;
+
+}
+
+#foto1{
+	background: grey;
+	width: 1125px;
+	height: 80px;
+	margin: 5px;
+
+}
+
+#foto2{
+	background: yellow;
+	height: 450px;
+	margin: 5px;
+
+}
+
+
+#sec2{
+  width: 49%;
+  height: 450px;
+  margin: 5px;
+  
+}
+
+#yazibalaca{
+	background: blue;
+	height: 300px;
+	margin: 5px;
+
+}
+
+.news{
+	display: inline-block;
+	background: grey;
+	color: white;
+	height: 140px;
+	width: 31.35%;
+	margin: 5px;
+}
+
+#sec3{
+	
+}
+.xeber{
+  width: 30%;
+  height: 200px;
+  background: lightgrey;
+  display: inline-block;
+  margin: 5px;
+}
+
+.footer{
+	width: 30%;
+	display: inline-block;
+	height: 200px;
+	color: red;
+	background: red;
+	margin: 5px;
+	position: 
+}
