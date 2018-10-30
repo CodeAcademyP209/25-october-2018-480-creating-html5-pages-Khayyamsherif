@@ -1,0 +1,32 @@
+#bayraq{
+	
+	
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	border-top:100px  solid blue;
+    border-bottom: 100px solid green;
+}
+
+#kvadrat{
+	width: 0;
+	height: 0;
+
+	
+	border-right:25px solid  black ;
+	border-bottom:25px  solid blue ;
+	border-left:25px solid  green ;
+	border-top:25px  solid red ; 
+}
+
+
+
+.h{
+
+	border-right:25px solid  white ;
+	border-bottom:25px  solid white ;
+	border-left:25px solid   red ;
+	border-top:25px  solid white ; 
+
+}
+
